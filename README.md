@@ -1,6 +1,6 @@
 ## Workerman 3.0 
 
-shomepage:[http://www.workerman.net](http://www.workerman.net)
+homepage:[http://www.workerman.net](http://www.workerman.net)
 
 manual:[http://doc3.workerman.net](http://doc3.workerman.net)
 
